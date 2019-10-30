@@ -1,0 +1,4 @@
+http://data.kew.org/sid/SidServlet?Clade=EUROSIDS+I&Order=&Family=&APG=off&Genus=&Species=&StorBehav=0&WtFlag=on
+http://data.kew.org/sid/SidServlet?Clade=EUASTERIDS+II&Order=&Family=&APG=off&Genus=&Species=&StorBehav=0&WtFlag=on
+http://data.kew.org/sid/SidServlet?Clade=EUASTERIDS+I&Order=&Family=&APG=off&Genus=&Species=&StorBehav=0&WtFlag=on
+http://data.kew.org/sid/SidServlet?Clade=EUASTERIDS+I&Order=&Family=&APG=off&Genus=&Species=&StorBehav=0&WtFlag=on
