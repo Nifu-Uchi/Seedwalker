@@ -42,6 +42,7 @@ mainbody=""
 
 
 """メール送信用関数の定義"""
+"from _引用URL_"
 def Mailer(Ltit,Lmain):
     title=Ltit
     mainbody=Lmain
