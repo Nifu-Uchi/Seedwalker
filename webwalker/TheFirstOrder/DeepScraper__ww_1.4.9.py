@@ -42,7 +42,7 @@ mainbody=""
 
 
 """メール送信用関数の定義"""
-##sorce from ___+
+##sorced from ___+
 def Mailer(Ltit,Lmain):
     title=Ltit
     mainbody=Lmain
